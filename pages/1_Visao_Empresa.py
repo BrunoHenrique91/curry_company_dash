@@ -198,7 +198,7 @@ df1 = limpando_df( df )
 # =========================================================
 # Barra Lateral
 # =========================================================
-st.header('Marketplace - Visão Entregadores')
+st.header('Marketplace - Visão Empresa')
 
 # Importando Logo na barra lateral
 image_patch = 'logo.png'
